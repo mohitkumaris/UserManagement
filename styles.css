@@ -1,0 +1,457 @@
+html {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+body {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+div {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+span {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+applet {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+object {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+iframe {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+blockquote {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+pre {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+a {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+abbr {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+acronym {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+address {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+big {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+cite {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+code {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+del {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+dfn {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+em {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+ins {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+kbd {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+q {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+s {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+samp {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+small {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+strike {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+strong {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+sub {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+sup {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+tt {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+var {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+b {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+u {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+i {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+center {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+dl {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+dt {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+dd {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+ol {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+fieldset {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+form {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+label {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+legend {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+table {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+caption {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+tbody {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+tfoot {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+thead {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+tr {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+th {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+td {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+article {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+aside {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+canvas {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+details {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+embed {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+figure {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+figcaption {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+footer {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+header {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+hgroup {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+menu {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+nav {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+output {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+ruby {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+section {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+summary {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+time {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+mark {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+audio {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+video {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; font-size: 100%; vertical-align: baseline;
+}
+article {
+	display: block;
+}
+aside {
+	display: block;
+}
+details {
+	display: block;
+}
+figcaption {
+	display: block;
+}
+figure {
+	display: block;
+}
+footer {
+	display: block;
+}
+header {
+	display: block;
+}
+hgroup {
+	display: block;
+}
+menu {
+	display: block;
+}
+nav {
+	display: block;
+}
+section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+blockquote {
+	quotes: none;
+}
+q {
+	quotes: none;
+}
+blockquote::before {
+	content: none;
+}
+blockquote::after {
+	content: none;
+}
+q::before {
+	content: none;
+}
+q::after {
+	content: none;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+.about {
+	background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1)) rgba(250, 250, 250, 0.8); font: 10px/18px "Lucida Grande", Helvetica, Arial, sans-serif; margin: 70px auto 40px; padding: 8px; border-radius: 4px; width: 260px; text-align: center; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal; box-shadow: inset 0px 1px rgba(255,255,255,0.3), inset 0px 0px 0px 1px rgba(255,255,255,0.1), 0px 0px 6px rgba(0,0,0,0.2); text-shadow: 0px 1px rgba(255,255,255,0.25); -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.3), inset 0 0 0 1px rgba(255, 255, 255, 0.1), 0 0 6px rgba(0, 0, 0, 0.2);
+}
+.about a {
+	border-radius: 2px; transition:background 0.1s; color: rgb(51, 51, 51); text-decoration: none; -webkit-transition: background 0.1s; -moz-transition: background 0.1s; -o-transition: background 0.1s;
+}
+.about a:hover {
+	background: rgba(255, 255, 255, 0.7); text-decoration: none;
+}
+.about-links {
+	height: 30px;
+}
+.about-links > a {
+	width: 50%; line-height: 30px; font-size: 12px; float: left;
+}
+.about-author {
+	margin-top: 5px;
+}
+.about-author > a {
+	margin: 0px -1px; padding: 1px 3px;
+}
+body {
+	font: 13px/20px Helvetica, Arial, Tahoma, Verdana, sans-serif; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal; background-repeat: repeat; background-color: rgb(243, 243, 243);
+}
+.container {
+	margin: 50px auto; width: 560px;
+}
+.login {
+	background: white; margin: 0px auto; padding: 36px 60px 60px; border-radius: 1px; width: 410px; position: relative; box-shadow: 0px 0px 200px rgba(255,255,255,0.5), 0px 1px 2px rgba(0,0,0,0.3); -webkit-box-shadow: 0 0 200px rgba(255, 255, 255, 0.5), 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+.login::before {
+	background: rgba(0, 0, 0, 0.08); border-radius: 4px; left: -2px; top: -2px; right: -2px; bottom: -2px; position: absolute; z-index: -1; content: "";
+}
+.login h1 {
+	background: white; margin: 8px -16px 32px; border-radius: 0px; text-align: center; line-height: 40px; font-size: 23px; font-weight: lighter; border-bottom-color: rgb(207, 207, 207); border-bottom-width: 0px; border-bottom-style: solid; box-shadow: 0px 0px whitesmoke; text-shadow: 0px 0px white; -webkit-box-shadow: 0 0px whitesmoke;
+}
+.login p {
+	margin: 20px 0px 0px;
+}
+.login p:first-child {
+	margin-top: 0px;
+}
+.login input[type=text] {
+	width: 278px;
+}
+.login input[type=password] {
+	width: 278px;
+}
+.login p.remember_me {
+	line-height: 31px; float: left;
+}
+.login p.remember_me label {
+	color: rgb(119, 119, 119); font-size: 12px; cursor: pointer;
+}
+.login p.remember_me input {
+	bottom: 1px; margin-right: 4px; vertical-align: middle; position: relative;
+}
+
+.login-error {
+	margin: 0px; text-align: center; color: red; font-size: 12px;
+}
+.login-help {
+	margin: 20px 0px; text-align: center; font-size: 12px;
+}
+.login-help a {
+	color: rgb(204, 231, 250); text-decoration: none;
+}
+.login-help a:hover {
+	text-decoration: underline;
+}
+input {
+	font-family: Helvetica, Arial, sans-serif; font-size: 14px;
+}
+input[type=text] {
+	background: white; border-width: 1px; border-style: solid; border-color: rgb(196, 196, 196) rgb(209, 209, 209) rgb(212, 212, 212); margin: 5px; padding: 0px 10px; outline: rgb(239, 244, 247) solid 2px; border-radius: 2px; border-image: none; width: 200px; height: 40px; color: rgb(64, 64, 64); box-shadow: inset 0px 1px 3px rgba(0,0,0,0.12); -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.12); -moz-outline-radius: 3px;
+}
+input[type=password] {
+	background: white; border-width: 1px; border-style: solid; border-color: rgb(196, 196, 196) rgb(209, 209, 209) rgb(212, 212, 212); margin: 5px; padding: 0px 10px; outline: rgb(239, 244, 247) solid 2px; border-radius: 2px; border-image: none; width: 200px; height: 40px; color: rgb(64, 64, 64); box-shadow: inset 0px 1px 3px rgba(0,0,0,0.12); -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.12); -moz-outline-radius: 3px;
+}
+input[type=text]:focus {
+	border-color: rgb(125, 201, 226); outline-color: rgb(220, 238, 252); outline-offset: 0;
+}
+input[type=password]:focus {
+	border-color: rgb(125, 201, 226); outline-color: rgb(220, 238, 252); outline-offset: 0;
+}
+input[type=submit] {
+	background: linear-gradient(rgb(0, 153, 255), rgb(0, 153, 255)) rgb(0, 153, 255); border-width: 0px; border-color: rgb(180, 204, 206) rgb(179, 192, 200) rgb(158, 185, 194); padding: 0px 18px; outline: 0px; border-radius: 4px; border-image: none; width: 266px; height: 39px; color: white; font-size: 15px; font-weight: normal; box-sizing: content-box; box-shadow: inset 0px 1px white, 0px 1px 2px rgba(0,0,0,0.15); text-shadow: 0px 1px #0099ff; -webkit-box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.15); -webkit-box-sizing: content-box; -moz-box-sizing: content-box;
+}
+input[type=button] {
+	background: linear-gradient(rgb(0, 153, 255), rgb(0, 153, 255)) rgb(0, 153, 255); border-width: 0px; border-color: rgb(180, 204, 206) rgb(179, 192, 200) rgb(158, 185, 194); margin: 4px; padding: 0px 18px; outline: 0px; border-radius: 4px; border-image: none; width: 266px; height: 39px; color: white; font-size: 15px; font-weight: normal; box-sizing: content-box; box-shadow: inset 0px 1px white, 0px 1px 2px rgba(0,0,0,0.15); text-shadow: 0px 1px #0099ff; -webkit-box-shadow: inset 0 1px white, 0 1px 2px rgba(0, 0, 0, 0.15); -webkit-box-sizing: content-box; -moz-box-sizing: content-box;
+}
+input[type=submit]:active {
+	background: rgb(0, 153, 255); border-color: rgb(158, 185, 194) rgb(179, 192, 200) rgb(180, 204, 206); box-shadow: inset 0px 0px 3px rgba(0,0,0,0.2); -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
+}
+input[type=button]:active {
+	background: rgb(0, 153, 255); border-color: rgb(158, 185, 194) rgb(179, 192, 200) rgb(180, 204, 206); box-shadow: inset 0px 0px 3px rgba(0,0,0,0.2); -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
+}
+.lt-ie9 input[type=text] {
+	line-height: 34px;
+}
+.lt-ie9 input[type=password] {
+	line-height: 34px;
+}
+
+        body {
+            font-size: 62.5%;
+        }
+
+        label, input {
+            display: block;
+        }
+
+            input.text {
+                margin-bottom: 12px;
+                width: 95%;
+                padding: .4em;
+            }
+
+        fieldset {
+            padding: 0;
+            border: 0;
+            margin-top: 25px;
+        }
+
+        h1 {
+            font-size: 1.2em;
+            margin: .6em 0;
+        }
+
+
+        .ui-dialog .ui-state-error {
+            padding: .3em;
+        }
+
+        .validateTips {
+            border: 1px solid transparent;
+            padding: 0.3em;
+        }
+
+        #parent-dialog-progress-container .ui-dialog-titlebar {
+            display: none;
+        }
+
+        #create-user:hover {
+            text-decoration: none;
+        }
+  .inValid  {
+   border:  1px solid red !important;
+   color: red;
+
+  }
