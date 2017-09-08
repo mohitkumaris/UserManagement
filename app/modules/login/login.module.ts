@@ -6,10 +6,10 @@ import  { BrowserModule}  from '@angular/platform-browser'
 import  { LoginComponent }  from './component/login.component'
 
 @NgModule({
-    delecations  : [LoginComponent],
-    import : [BrowserModule],
+    declarations  : [LoginComponent],
+    imports : [BrowserModule],
     providers : [],
-    export  : [LoginComponent],
+    exports  : [LoginComponent],
 })
 export class LoginModule {
     
